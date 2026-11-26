@@ -2,8 +2,7 @@
 
 An interactive Power BI practice dashboard exploring airline status records, monthly trends, cancellations by country, and simulated disruption reasons.
 
-![Dashboard overview](images/dashboard-overview.png)
-
+![Dashboard overview](Screenshot%202026-11-26%20062840.png)
 ## Dashboard features
 
 - KPI cards for total records, on-time rate, on-time records, delayed records, and cancelled records
@@ -27,5 +26,5 @@ The source data is at passenger-record level and does not include actual flight 
 
 ## Project files
 
-- `report/Airline_Flight_Status_Disruption_Analysis.pbix` — Power BI report
-- `images/dashboard-overview.png` — dashboard screenshot
+- `Airline Analysis 1.pbix` — Power BI report
+- `Screenshot 2026-11-26 062840.png` — dashboard screenshot
